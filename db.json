@@ -8,7 +8,7 @@
       "investedamount": 17952.07,
       "percentportfoliovalue": 22.06,
       "unrealizedpl": 3676.93,
-      "percentreturn": 20.48,
+      "percentreturn": 20.48
     },
      {
       "id": "MFEM",
@@ -18,7 +18,7 @@
       "investedamount": 4725.84,
       "percentportfoliovalue": 5.81,
       "unrealizedpl": 146.16,
-      "percentreturn": 3.09,
+      "percentreturn": 3.09
     }
   ]
 }
