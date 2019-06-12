@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "scrips": [
     {
-      "id": 1,
-      "title": "hello"
+      "scrip": "AADR",
+      "quantity": 430,
+      "price": 50.30,
+      "avgcost": 41.75,
+      "investedamount": 17,952.07,
+      "percentportfoliovalue": 22.06,
+      "unrealizedpl": 3,676.93,
+      "percentreturn": 20.48,
+    },
+     {
+      "scrip": "MFEM",
+      "quantity": 210,
+      "price": 23.20,
+      "avgcost": 22.50,
+      "investedamount": 4,725.84,
+      "percentportfoliovalue": 5.81,
+      "unrealizedpl": 146.16,
+      "percentreturn": 3.09,
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
